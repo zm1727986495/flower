@@ -1,0 +1,285 @@
+[
+    {
+      "id": 1,
+      "title": "热门推荐",
+      "classTypes":[
+        {
+          "id":1,
+          "pic":"https://img02.hua.com/slider/18_temai_all_m.jpg",
+          "des":"浪漫告白·卡罗拉红玫瑰11枝 ¥245",
+
+          "classList":[
+            {
+              "id":1,
+              "img":"https://img02.hua.com/app/api/flower/huacai/rose.png",
+              "dec":"浪漫告白"
+            },{
+              "id":2,
+              "img":"https://img02.hua.com/app/api/flower/yongtu/aiqing.png",
+              "dec":"爱情鲜花"
+            },{
+              "id":3,
+              "img":"https://img02.hua.com/app/api/use/yongshenghua.png",
+              "dec":"永生花"
+            },{
+              "id":4,
+              "img":"https://img02.hua.com/app/api/use/dangao.png",
+              "dec":"蛋糕"
+            },
+            {
+              "id":5,
+              "img":"https://img02.hua.com/app/api/use/lvzhi.png",
+              "dec":"设计师鲜花"
+            }
+          ]
+        }
+      ]
+    },
+  {
+    "id": 2,
+    "title": "鲜花",
+    "classTypes":[
+      {
+        "id":2,
+        "pic":"https://img02.hua.com/m/remind/all_cla_ban_business%20flower.jpg?",
+        "des":"永生花盒·维多利亚的花园 ¥329",
+        "classList":[
+          {
+            "id":1,
+            "img":"https://img02.hua.com/m/icon/more_btn.png",
+            "dec":"全部"
+          },{
+            "id":2,
+            "img":"https://img02.hua.com/app/api/flower/yongtu/aiqing.png",
+            "dec":"爱情鲜花"
+          },{
+            "id":3,
+            "img":"https://img02.hua.com/app/api/flower/yongtu/wishes.png",
+            "dec":"友情花"
+          },{
+            "id":4,
+            "img":"https://img02.hua.com/app/api/flower/yongtu/weddingcelebration.png",
+            "dec":"婚庆鲜花"
+          },
+          {
+            "id":5,
+            "img":"https://img02.hua.com/app/api/use/youflower.png",
+            "dec":"送长辈"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "永生花",
+    "classTypes":[
+      {
+        "id":1,
+        "pic":"https://img02.hua.com/m/remind/all_cla_ban_freflowers.jpg",
+        "des":"美味蛋糕·让生活充满甜蜜",
+        "classList":[
+          {
+            "id":1,
+            "img":"https://img02.hua.com/m/icon/more_btn.png",
+            "dec":"全部"
+          },{
+            "id":2,
+            "img":"https://img02.hua.com/app/api/yongshenghua/jingdianhuahe.png",
+            "dec":"爱情鲜花"
+          },{
+            "id":3,
+            "img":"https://img02.hua.com/app/api/yongshenghua/juxingmeigui.png",
+            "dec":"永生花"
+          },{
+            "id":4,
+            "img":"https://img02.hua.com/app/api/yongshenghua/xunyicao.png",
+            "dec":"蛋糕"
+          },
+          {
+            "id":5,
+            "img":"特色永生花",
+            "dec":"蛋糕"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "蛋糕",
+
+    "classTypes":[
+      {
+        "id":1,
+        "pic":"https://img02.hua.com/m/remind/all_cla_ban_cake.jpg",
+        "des":"巧克巧蔻定制16粒装手工夹心巧克力 ¥258",
+        "classList":[
+          {
+            "id":1,
+            "img":"https://img02.hua.com/app/api/cake/brand/ganso.png",
+            "dec":"全部"
+          },{
+            "id":2,
+            "img":"https://img02.hua.com/app/api/cake/brand/21cake.jpg",
+            "dec":"爱情鲜花"
+          },{
+            "id":3,
+            "img":"https://img02.hua.com/app/api/cake/brand/lecake.png",
+            "dec":"永生花"
+          },{
+            "id":4,
+            "img":"https://img02.hua.com/app/api/cake/brand/waffleboy.png",
+            "dec":"蛋糕"
+          },
+          {
+            "id":5,
+            "img":"https://img02.hua.com/app/api/use/lvzhi.png",
+            "dec":"蛋糕"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "巧克力",
+    "classTypes":[
+      {
+        "id":1,
+        "pic":"https://img02.hua.com/m/remind/all_cla_ban__choclate.jpg",
+        "des":"特色礼品·小熊拥抱香氛礼盒 ¥89",
+        "classList":[
+          {
+            "id":1,
+            "img":"https://img02.hua.com/m/icon/more_btn.png",
+            "dec":"全部"
+          },{
+            "id":2,
+            "img":"https://img02.hua.com/app/api/qiaokeli/felchlin.png",
+            "dec":"爱情鲜花"
+          },{
+            "id":3,
+            "img":"https://img02.hua.com/app/api/qiaokeli/qiaoluo.png",
+            "dec":"永生花"
+          },{
+            "id":4,
+            "img":"https://img02.hua.com/app/api/qiaokeli/qiaokouqiaokeli.png",
+            "dec":"蛋糕"
+          },
+          {
+            "id":5,
+            "img":"https://img02.hua.com/app/api/use/lvzhi.png",
+            "dec":"蛋糕"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "特色礼品",
+    "classTypes":[
+      {
+        "id":1,
+        "pic":"https://img02.hua.com/app/api/plant/plant_banner.png",
+        "des":"特色礼品·小熊拥抱香氛礼盒 ¥89",
+        "classList":[
+          {
+            "id":1,
+            "img":"https://img02.hua.com/m/icon/more_btn.png",
+            "dec":"全部"
+          },{
+            "id":2,
+            "img":"https://img02.hua.com/app/api/gift/neidiao.png",
+            "dec":"爱情鲜花"
+          },{
+            "id":3,
+            "img":"https://img02.hua.com/app/api/gift/baozhen.png",
+            "dec":"永生花"
+          },{
+            "id":4,
+            "img":"https://img02.hua.com/app/api/use/dangao.png",
+            "dec":"蛋糕"
+          },
+          {
+            "id":5,
+            "img":"https://img02.hua.com/app/api/gift/yinyuehe.png",
+            "dec":"蛋糕"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "礼篮",
+    "classTypes":[
+      {
+        "id":1,
+        "pic":"https://img02.hua.com/m/remind/all_cla_gift busket.jpg",
+        "des":"温情礼篮·愿祝福常相伴 ¥338",
+        "classList":[
+          {
+            "id":1,
+            "img":"https://img02.hua.com/m/icon/more_btn.png",
+            "dec":"全部"
+          },{
+            "id":2,
+            "img":"https://img02.hua.com/app/api/doll/hello-kitty.png",
+            "dec":"爱情鲜花"
+          },{
+            "id":3,
+            "img":"https://img02.hua.com/app/api/doll/katong.png",
+            "dec":"永生花"
+          },{
+            "id":4,
+            "img":"https://img02.hua.com/app/api/doll/bestlife.png",
+            "dec":"蛋糕"
+          },
+          {
+            "id":5,
+            "img":"https://img02.hua.com/app/api/doll/katonghuashu.jpg",
+            "dec":"蛋糕"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "绿植花卉",
+    "classTypes":[
+      {
+        "id":1,
+        "pic":"https://img02.hua.com/slider/18_temai_all_m.jpg",
+        "des":"为你的生活加点绿",
+        "classList":[
+          {
+            "id":1,
+            "img":"https://img02.hua.com/m/icon/more_btn.png",
+            "dec":"全部"
+          },{
+            "id":2,
+            "img":"https://img02.hua.com/app/api/plant/pengzai.png",
+            "dec":"爱情鲜花"
+          },{
+            "id":3,
+            "img":"https://img02.hua.com/app/api/plant/lvzhi.png",
+            "dec":"永生花"
+          },{
+            "id":4,
+            "img":"https://img02.hua.com/app/api/use/dangao.png",
+            "dec":"蛋糕"
+          },
+          {
+            "id":5,
+            "img":"https://img02.hua.com/app/api/use/lvzhi.png",
+            "dec":"蛋糕"
+          }
+        ]
+      }
+    ]
+  }
+  ]
+

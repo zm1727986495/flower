@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "banner1",
+    "pic": "https://img02.hua.com/slider/18_temai_m.jpg?v1",
+    "type": "banner"
+  },
+  {
+    "id": 2,
+    "name": "banner2",
+    "pic": "https://img02.hua.com/slider/new_banner_xingzuo_jxz.jpg",
+    "type": "banner"
+  },
+  {
+    "id": 3,
+    "name": "banner3",
+    "pic": "https://img02.hua.com/slider/18_youflower_m.jpg",
+    "type": "banner"
+  },
+  {
+    "id": 4,
+    "name": "banner4",
+    "pic": "https://img02.hua.com/slider/17_yga_m.jpg",
+    "type": "banner"
+  }
+]

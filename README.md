@@ -1,4 +1,2 @@
-﻿# Flowers
-毕业设计Flowers
-1
-1
+# Flowers
+项目不是完整版
